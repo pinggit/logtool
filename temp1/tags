@@ -1,0 +1,56 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+DISCRIPTIONS	logtool.pl	/^    DISCRIPTIONS:$/;"	l
+EXAMPLES	logtool.pl	/^    EXAMPLES: CLI mode$/;"	l
+EXAMPLES	logtool.pl	/^    EXAMPLES: shell mode$/;"	l
+INPUTS	logtool.pl	/^    INPUTS:$/;"	l
+Note	logtool.pl	/^Note: $/;"	l
+OPTIONS	logtool.pl	/^OPTIONS:$/;"	l
+OUTPUTs	logtool.pl	/^    OUTPUTs:$/;"	l
+SYNTAX	logtool.pl	/^SYNTAX:$/;"	l
+USAGEMSG	logtool.pl	/^use constant USAGEMSG => << 'USAGE-END';$/;"	c
+USAGEMSG2	logtool.pl	/^use constant USAGEMSG2 => << 'USAGE-END2';$/;"	c
+actionparse	logtool.pl	/^sub actionparse{            #this function do followings:$/;"	s
+addhost	logtool.pl	/^sub addhost{$/;"	s
+addtime	logtool.pl	/^sub addtime{$/;"	s
+audit	logtool.pl	/^sub audit{$/;"	s
+author	logtool.pl	/^author: song ping <ping.song@ericsson.com>$/;"	l
+cfgfparse	logtool.pl	/^sub cfgfparse{  #this function focus on:$/;"	s
+cfgfparse2	logtool.pl	/^sub cfgfparse2{     #this function deal with sepcial handlings for some clauses$/;"	s
+checkoptions4cli	logtool.pl	/^sub checkoptions4cli{$/;"	s
+checkoptions4run	logtool.pl	/^sub checkoptions4run{$/;"	s
+clear_interuption	logtool.pl	/^sub clear_interuption{$/;"	s
+cli_prompt	logtool.pl	/^sub cli_prompt{$/;"	s
+cmds2cmdsoutputs	logtool.pl	/^sub cmds2cmdsoutputs{           #this fucntion use @cmds as input,use telnet object to login the box$/;"	s
+cmdslogfile2cmdsoutputs	logtool.pl	/^sub cmdslogfile2cmdsoutputs{$/;"	s
+cmdsoutputs_format	logtool.pl	/^sub cmdsoutputs_format{$/;"	s
+danger	logtool.pl	/^sub danger$/;"	s
+datacompare	logtool.pl	/^sub datacompare{$/;"	s
+dataparse	logtool.pl	/^sub dataparse{$/;"	s
+defalt	logtool.pl	/^            defalt: the issue were detected,for more info ...$/;"	l
+default	logtool.pl	/^            default: remotechecklog%h%t.txt     $/;"	l
+get_commands	logtool.pl	/^sub get_commands{$/;"	s
+getobjfromcli2	logtool.pl	/^sub getobjfromcli2{$/;"	s
+getvaluefromwanted	logtool.pl	/^sub getvaluefromwanted {$/;"	s
+interuption_handler	logtool.pl	/^sub interuption_handler{$/;"	s
+log4offline	logtool.pl	/^sub log4offline{$/;"	s
+log4online	logtool.pl	/^sub log4online{$/;"	s
+login	logtool.pl	/^sub login{  #this function checks the login params(param1) and trying to login remote box$/;"	s
+lr_time	logtool.pl	/^sub lr_time{        #calculate and return local\/remote time based on 2 input:$/;"	s
+parsename	logtool.pl	/^sub parsename{$/;"	s
+prehandle	logtool.pl	/^sub prehandle{  #this function do some pre-handling:$/;"	s
+print_stats	logtool.pl	/^sub print_stats$/;"	s
+readfrom	logtool.pl	/^sub readfrom{           #this function deal with readfrom function for each clause$/;"	s
+readfrom2	logtool.pl	/^sub readfrom2{          #this function deal with readfrom function for each clause$/;"	s
+rulecalc	logtool.pl	/^sub rulecalc{$/;"	s
+run	logtool.pl	/^sub run{$/;"	s
+sendemail	logtool.pl	/^sub sendemail{      #sendemail$/;"	s
+stsplit	logtool.pl	/^sub stsplit{            #split (ref of£©show-tech output into a (ref of)hash$/;"	s
+time_diff	logtool.pl	/^sub time_diff{$/;"	s
+time_diff_print	logtool.pl	/^sub time_diff_print{$/;"	s
+usage	logtool.pl	/^usage:$/;"	l
+zipbigfile	logtool.pl	/^sub zipbigfile{$/;"	s

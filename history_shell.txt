@@ -1,0 +1,43 @@
+quit
+quit
+quit
+quit
+run
+run
+quit
+quit
+quit
+quit
+size2zip 
+size2zip
+host hk-lab
+host hk-lab
+run
+run
+quit
+quit
+size2zip 
+size2zip
+run
+run
+quit
+quit
+
+host hk-lab
+host hk-lab
+
+run
+run
+
+qquit
+qquit
+
+qquit
+
+ppwd
+ppwd
+
+ppwd
+
+exit
+exit

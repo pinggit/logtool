@@ -1,0 +1,2919 @@
+
+[local]GSDCCHN-SE400-2#
+[local]GSDCCHN-SE400-2#show version
+
+Redback Networks SmartEdge OS Version SEOS-6.1.4.6-Release
+Built by sysbuild@lx-dev2 Fri Dec 18 11:05:05 PST 2009
+Copyright (C) 1998-2009, Redback Networks Inc. All rights reserved.
+System Bootstrap version is PowerPC,1.0b1272
+Installed minikernel version is 23
+Router Up Time -   13 days, 9 hours 43 minutes 40 secs
+[local]GSDCCHN-SE400-2#show version
+
+Redback Networks SmartEdge OS Version SEOS-6.1.4.6-Release
+Built by sysbuild@lx-dev2 Fri Dec 18 11:05:05 PST 2009
+Copyright (C) 1998-2009, Redback Networks Inc. All rights reserved.
+System Bootstrap version is PowerPC,1.0b1272
+Installed minikernel version is 23
+Router Up Time -   13 days, 9 hours 43 minutes 40 secs
+[local]GSDCCHN-SE400-2#show clock
+Mon Jul 26 17:28:52 2010 EST
+[local]GSDCCHN-SE400-2#show clock
+Mon Jul 26 17:28:53 2010 EST
+[local]GSDCCHN-SE400-2#show vrrp stat
+% VRRP process is not running
+[local]GSDCCHN-SE400-2#show vrrp stat
+% VRRP process is not running
+[local]GSDCCHN-SE400-2#ping 10.251.133.199 20 flood
+PING 10.251.133.199 (10.251.133.199): source 172.16.125.103, 36 data bytes,
+timeout is 0.01 second
+....................
+
+----10.251.133.199 PING Statistics----
+20 packets transmitted, 0 packets received, 100.0% packet loss
+[local]GSDCCHN-SE400-2#ping 10.251.133.199 20 flood
+PING 10.251.133.199 (10.251.133.199): source 172.16.125.103, 36 data bytes,
+timeout is 0.01 second
+....................
+
+----10.251.133.199 PING Statistics----
+20 packets transmitted, 0 packets received, 100.0% packet loss
+[local]GSDCCHN-SE400-2#ping 10.251.135.199 20 flood
+PING 10.251.135.199 (10.251.135.199): source 172.16.125.103, 36 data bytes,
+timeout is 0.01 second
+....................
+
+----10.251.135.199 PING Statistics----
+20 packets transmitted, 0 packets received, 100.0% packet loss
+[local]GSDCCHN-SE400-2#ping 10.251.135.199 20 flood
+PING 10.251.135.199 (10.251.135.199): source 172.16.125.103, 36 data bytes,
+timeout is 0.01 second
+....................
+
+----10.251.135.199 PING Statistics----
+20 packets transmitted, 0 packets received, 100.0% packet loss
+[local]GSDCCHN-SE400-2#ping 10.251.137.199 20 flood
+PING 10.251.137.199 (10.251.137.199): source 172.16.125.103, 36 data bytes,
+timeout is 0.01 second
+....................
+
+----10.251.137.199 PING Statistics----
+20 packets transmitted, 0 packets received, 100.0% packet loss
+[local]GSDCCHN-SE400-2#ping 10.251.137.199 20 flood
+PING 10.251.137.199 (10.251.137.199): source 172.16.125.103, 36 data bytes,
+timeout is 0.01 second
+....................
+
+----10.251.137.199 PING Statistics----
+20 packets transmitted, 0 packets received, 100.0% packet loss
+[local]GSDCCHN-SE400-2#ping 10.251.139.199 20 flood
+PING 10.251.139.199 (10.251.139.199): source 172.16.125.103, 36 data bytes,
+timeout is 0.01 second
+....................
+
+----10.251.139.199 PING Statistics----
+20 packets transmitted, 0 packets received, 100.0% packet loss
+[local]GSDCCHN-SE400-2#ping 10.251.139.199 20 flood
+PING 10.251.139.199 (10.251.139.199): source 172.16.125.103, 36 data bytes,
+timeout is 0.01 second
+....................
+
+----10.251.139.199 PING Statistics----
+20 packets transmitted, 0 packets received, 100.0% packet loss
+[local]GSDCCHN-SE400-2#show arp
+Total number of arp entries in cache: 4
+  Resolved entry   : 4
+  Incomplete entry : 0
+
+Host              Hardware address    Ttl    Type  Circuit            
+100.0.12.1        00:30:88:13:a8:09   3530   ARPA  3/5                
+100.0.12.2        00:30:88:13:a6:79   -      ARPA  3/5                
+211.138.200.18    00:0b:cd:3e:f5:fc   2204   ARPA  3/7                
+211.138.200.20    00:30:88:13:a6:7b   -      ARPA  3/7                
+[local]GSDCCHN-SE400-2#show arp
+Total number of arp entries in cache: 4
+  Resolved entry   : 4
+  Incomplete entry : 0
+
+Host              Hardware address    Ttl    Type  Circuit            
+100.0.12.1        00:30:88:13:a8:09   3530   ARPA  3/5                
+100.0.12.2        00:30:88:13:a6:79   -      ARPA  3/5                
+211.138.200.18    00:0b:cd:3e:f5:fc   2204   ARPA  3/7                
+211.138.200.20    00:30:88:13:a6:7b   -      ARPA  3/7                
+[local]GSDCCHN-SE400-2#show vrrp
+% VRRP process is not running
+[local]GSDCCHN-SE400-2#show vrrp
+% VRRP process is not running
+[local]GSDCCHN-SE400-2#ping 10.251.133.199 20 flood
+PING 10.251.133.199 (10.251.133.199): source 172.16.125.103, 36 data bytes,
+timeout is 0.01 second
+....................
+
+----10.251.133.199 PING Statistics----
+20 packets transmitted, 0 packets received, 100.0% packet loss
+[local]GSDCCHN-SE400-2#ping 10.251.133.199 20 flood
+PING 10.251.133.199 (10.251.133.199): source 172.16.125.103, 36 data bytes,
+timeout is 0.01 second
+....................
+
+----10.251.133.199 PING Statistics----
+20 packets transmitted, 0 packets received, 100.0% packet loss
+[local]GSDCCHN-SE400-2#ping 10.251.135.199 20 flood
+PING 10.251.135.199 (10.251.135.199): source 172.16.125.103, 36 data bytes,
+timeout is 0.01 second
+....................
+
+----10.251.135.199 PING Statistics----
+20 packets transmitted, 0 packets received, 100.0% packet loss
+[local]GSDCCHN-SE400-2#ping 10.251.135.199 20 flood
+PING 10.251.135.199 (10.251.135.199): source 172.16.125.103, 36 data bytes,
+timeout is 0.01 second
+....................
+
+----10.251.135.199 PING Statistics----
+20 packets transmitted, 0 packets received, 100.0% packet loss
+[local]GSDCCHN-SE400-2#ping 10.251.137.199 20 flood
+PING 10.251.137.199 (10.251.137.199): source 172.16.125.103, 36 data bytes,
+timeout is 0.01 second
+....................
+
+----10.251.137.199 PING Statistics----
+20 packets transmitted, 0 packets received, 100.0% packet loss
+[local]GSDCCHN-SE400-2#ping 10.251.137.199 20 flood
+PING 10.251.137.199 (10.251.137.199): source 172.16.125.103, 36 data bytes,
+timeout is 0.01 second
+....................
+
+----10.251.137.199 PING Statistics----
+20 packets transmitted, 0 packets received, 100.0% packet loss
+[local]GSDCCHN-SE400-2#ping 10.251.139.199 20 flood
+PING 10.251.139.199 (10.251.139.199): source 172.16.125.103, 36 data bytes,
+timeout is 0.01 second
+....................
+
+----10.251.139.199 PING Statistics----
+20 packets transmitted, 0 packets received, 100.0% packet loss
+[local]GSDCCHN-SE400-2#ping 10.251.139.199 20 flood
+PING 10.251.139.199 (10.251.139.199): source 172.16.125.103, 36 data bytes,
+timeout is 0.01 second
+....................
+
+----10.251.139.199 PING Statistics----
+20 packets transmitted, 0 packets received, 100.0% packet loss
+[local]GSDCCHN-SE400-2#show arp
+Total number of arp entries in cache: 4
+  Resolved entry   : 4
+  Incomplete entry : 0
+
+Host              Hardware address    Ttl    Type  Circuit            
+100.0.12.1        00:30:88:13:a8:09   3524   ARPA  3/5                
+100.0.12.2        00:30:88:13:a6:79   -      ARPA  3/5                
+211.138.200.18    00:0b:cd:3e:f5:fc   2198   ARPA  3/7                
+211.138.200.20    00:30:88:13:a6:7b   -      ARPA  3/7                
+[local]GSDCCHN-SE400-2#show arp
+Total number of arp entries in cache: 4
+  Resolved entry   : 4
+  Incomplete entry : 0
+
+Host              Hardware address    Ttl    Type  Circuit            
+100.0.12.1        00:30:88:13:a8:09   3524   ARPA  3/5                
+100.0.12.2        00:30:88:13:a6:79   -      ARPA  3/5                
+211.138.200.18    00:0b:cd:3e:f5:fc   2198   ARPA  3/7                
+211.138.200.20    00:30:88:13:a6:7b   -      ARPA  3/7                
+[local]GSDCCHN-SE400-2#show vrrp
+% VRRP process is not running
+[local]GSDCCHN-SE400-2#show vrrp
+% VRRP process is not running
+[local]GSDCCHN-SE400-2#!!!!ping failure detected!!!!
+[local]GSDCCHN-SE400-2#!!!!ping failure detected!!!!
+[local]GSDCCHN-SE400-2#show clock
+Mon Jul 26 17:29:04 2010 EST
+[local]GSDCCHN-SE400-2#show clock
+Mon Jul 26 17:29:04 2010 EST
+[local]GSDCCHN-SE400-2#show arp all
+Total number of arp entries in cache: 4
+  Resolved entry   : 4
+  Incomplete entry : 0
+
+Host              Hardware address    Ttl    Type  Circuit            
+100.0.12.1        00:30:88:13:a8:09   3524   ARPA  3/5                
+100.0.12.2        00:30:88:13:a6:79   -      ARPA  3/5                
+211.138.200.18    00:0b:cd:3e:f5:fc   2198   ARPA  3/7                
+211.138.200.20    00:30:88:13:a6:7b   -      ARPA  3/7                
+
+Showing ARP entries on Cross-connect RP:
+Host              Hardware address    Ttl    Type      
+172.16.125.10     00:0b:cd:3e:f5:fd   979    ARPA  
+172.16.125.12     00:0b:cd:0e:f0:24   1191   ARPA  
+172.16.125.103    00:30:88:04:1e:a0   1191   ARPA  
+172.16.125.223    00:04:96:37:11:c5   1111   ARPA  
+[local]GSDCCHN-SE400-2#show arp all
+Total number of arp entries in cache: 4
+  Resolved entry   : 4
+  Incomplete entry : 0
+
+Host              Hardware address    Ttl    Type  Circuit            
+100.0.12.1        00:30:88:13:a8:09   3524   ARPA  3/5                
+100.0.12.2        00:30:88:13:a6:79   -      ARPA  3/5                
+211.138.200.18    00:0b:cd:3e:f5:fc   2198   ARPA  3/7                
+211.138.200.20    00:30:88:13:a6:7b   -      ARPA  3/7                
+
+Showing ARP entries on Cross-connect RP:
+Host              Hardware address    Ttl    Type      
+172.16.125.10     00:0b:cd:3e:f5:fd   979    ARPA  
+172.16.125.12     00:0b:cd:0e:f0:24   1191   ARPA  
+172.16.125.103    00:30:88:04:1e:a0   1191   ARPA  
+172.16.125.223    00:04:96:37:11:c5   1111   ARPA  
+[local]GSDCCHN-SE400-2#show arp interface
+
+------------------------------------------------------------
+Display ARP information for interface oam:
+Interface is bound to a managment port
+
+------------------------------------------------------------
+Display ARP information for interface r1-r2:
+ifgrid              : 0x10060001 ARP enabled         : Yes       
+State:              : Up         Stale:              : No        
+Multi-Bound         : No         No of Circuits bound: 1         
+Cache timeout (sec) : 3600       Proxy ARP           : Off       
+Expired entries are : refreshed  Secured Arp         : Off       
+Un-numbered         : No         Last resort         : No        
+if_flags            : 0x0       
+Primary IP address  : 100.0.12.2
+
+Last interface events received from ISM: I/F cfg -> I/F Unknown
+Last interface events attributes from ISM: 0x98ff
+
+------------------------------------------------------------
+Display ARP information for interface to_Radius:
+ifgrid              : 0x1007fffc ARP enabled         : Yes       
+State:              : Up         Stale:              : No        
+Multi-Bound         : No         No of Circuits bound: 1         
+Cache timeout (sec) : 3600       Proxy ARP           : Off       
+Expired entries are : refreshed  Secured Arp         : Off       
+Un-numbered         : No         Last resort         : No        
+if_flags            : 0x0       
+Primary IP address  : 211.138.200.20
+
+Last interface events received from ISM: I/F cfg -> I/F Unknown
+Last interface events attributes from ISM: 0x98ff
+
+[local]GSDCCHN-SE400-2#show arp interface
+
+------------------------------------------------------------
+Display ARP information for interface oam:
+Interface is bound to a managment port
+
+------------------------------------------------------------
+Display ARP information for interface r1-r2:
+ifgrid              : 0x10060001 ARP enabled         : Yes       
+State:              : Up         Stale:              : No        
+Multi-Bound         : No         No of Circuits bound: 1         
+Cache timeout (sec) : 3600       Proxy ARP           : Off       
+Expired entries are : refreshed  Secured Arp         : Off       
+Un-numbered         : No         Last resort         : No        
+if_flags            : 0x0       
+Primary IP address  : 100.0.12.2
+
+Last interface events received from ISM: I/F cfg -> I/F Unknown
+Last interface events attributes from ISM: 0x98ff
+
+------------------------------------------------------------
+Display ARP information for interface to_Radius:
+ifgrid              : 0x1007fffc ARP enabled         : Yes       
+State:              : Up         Stale:              : No        
+Multi-Bound         : No         No of Circuits bound: 1         
+Cache timeout (sec) : 3600       Proxy ARP           : Off       
+Expired entries are : refreshed  Secured Arp         : Off       
+Un-numbered         : No         Last resort         : No        
+if_flags            : 0x0       
+Primary IP address  : 211.138.200.20
+
+Last interface events received from ISM: I/F cfg -> I/F Unknown
+Last interface events attributes from ISM: 0x98ff
+
+[local]GSDCCHN-SE400-2#show arp circuit
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/1:
+Int representation  : 3/1:1023:63/1/1/12300
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  : ge2/1               
+Hardware address    : 00:30:88:13:a6:75   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 2
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x302007f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/2:
+Int representation  : 3/2:1023:63/1/1/16385
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  : only4test           
+Hardware address    : 00:30:88:13:a6:76   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 1
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x302007f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/3:
+Int representation  : 3/3:1023:63/1/1/12288
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  :                     
+Hardware address    : 00:30:88:13:a6:77   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x302007f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/3 vlan-id 100:
+Int representation  : 3/3:1023:63/1/2/12289
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : dot1q          
+Bound to interface  :                     
+Hardware address    : 00:30:88:13:a6:77   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: ID UNKNOWN -> 
+Last circuit attribute received from ISM: 0x20a027f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/4:
+Int representation  : 3/4:1023:63/1/1/161
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  :                     
+Hardware address    : 00:30:88:13:a6:78   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x302007f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/4 vlan-id 100:
+Int representation  : 3/4:1023:63/1/2/12290
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : dot1q          
+Bound to interface  :                     
+Hardware address    : 00:30:88:13:a6:78   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: ID UNKNOWN -> 
+Last circuit attribute received from ISM: 0x20a027f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/5:
+Int representation  : 3/5:1023:63/1/1/4100
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  : r1-r2               
+Hardware address    : 00:30:88:13:a6:79   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 2
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x30200ff
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/6:
+Int representation  : 3/6:1023:63/1/1/4104
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Link-Group ID       : 30                  
+Link-Group Acct     : 255/22:1:31/1/1/4109          
+Hardware address    : 00:30:88:13:a6:7a   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x302047f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/7:
+Int representation  : 3/7:1023:63/1/1/4107
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  : to_Radius           
+Hardware address    : 00:30:88:13:a6:7b   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 2
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x302047f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/8:
+Int representation  : 3/8:1023:63/1/1/4102
+State               : DOWN           Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  : test                
+Hardware address    : 00:30:88:13:a6:7c   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT down
+Last circuit attribute received from ISM: 0x302007f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/9:
+Int representation  : 3/9:1023:63/1/1/166
+State               : DOWN           Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  :                     
+Hardware address    : 00:30:88:13:a6:7d   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT down
+Last circuit attribute received from ISM: 0x302007f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/9 vlan-id 100:
+Int representation  : 3/9:1023:63/1/2/12294
+State               : DOWN           Stale               : no             
+Media type          : ethernet       Encap type          : dot1q          
+Bound to interface  :                     
+Hardware address    : 00:30:88:13:a6:7d   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: ID UNKNOWN -> 
+Last circuit attribute received from ISM: 0x20a027f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/10:
+Int representation  : 3/10:1023:63/1/1/168
+State               : DOWN           Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  :                     
+Hardware address    : 00:30:88:13:a6:7e   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x302007f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/10 vlan-id 100:
+Int representation  : 3/10:1023:63/1/2/12296
+State               : DOWN           Stale               : no             
+Media type          : ethernet       Encap type          : dot1q          
+Bound to interface  : ce                  
+Hardware address    : 00:30:88:13:a6:7e   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT down
+Last circuit attribute received from ISM: 0x202027f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 6/1:
+Int representation  : 6/1:1023:63/1/1/152
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  : oam                 
+Hardware address    : 00:30:88:04:1e:a0   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x302007f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit lg id 30 redback:
+Int representation  : 255/22:1:31/1/1/4109
+State               : DOWN           Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+No of Cccts         : 1              Link-Group ID       : 30             
+Bound to interface  :                     
+Hardware address    : 00:00:11:11:22:22   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: HDR only -> NONE
+Last circuit attribute received from ISM: 0x218007e
+
+-------------------------------------------------------------
+Displaying information for ARP circuit BVI 1:
+Int representation  : 255/31:1:2/1/1/153
+State               : DOWN           Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  :                     
+Hardware address    : 00:30:88:04:1e:a0   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT down
+Last circuit attribute received from ISM: 0x212003e
+
+-------------------------------------------------------------
+Displaying information for ARP circuit BVI 2:
+Int representation  : 255/31:1:3/1/1/12287
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  : vlan100             
+Hardware address    : 00:30:88:04:1e:a0   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 1
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x21a003e
+-------------------------------------------------------------
+[local]GSDCCHN-SE400-2#show arp circuit
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/1:
+Int representation  : 3/1:1023:63/1/1/12300
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  : ge2/1               
+Hardware address    : 00:30:88:13:a6:75   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 2
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x302007f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/2:
+Int representation  : 3/2:1023:63/1/1/16385
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  : only4test           
+Hardware address    : 00:30:88:13:a6:76   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 1
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x302007f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/3:
+Int representation  : 3/3:1023:63/1/1/12288
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  :                     
+Hardware address    : 00:30:88:13:a6:77   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x302007f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/3 vlan-id 100:
+Int representation  : 3/3:1023:63/1/2/12289
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : dot1q          
+Bound to interface  :                     
+Hardware address    : 00:30:88:13:a6:77   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: ID UNKNOWN -> 
+Last circuit attribute received from ISM: 0x20a027f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/4:
+Int representation  : 3/4:1023:63/1/1/161
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  :                     
+Hardware address    : 00:30:88:13:a6:78   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x302007f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/4 vlan-id 100:
+Int representation  : 3/4:1023:63/1/2/12290
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : dot1q          
+Bound to interface  :                     
+Hardware address    : 00:30:88:13:a6:78   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: ID UNKNOWN -> 
+Last circuit attribute received from ISM: 0x20a027f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/5:
+Int representation  : 3/5:1023:63/1/1/4100
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  : r1-r2               
+Hardware address    : 00:30:88:13:a6:79   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 2
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x30200ff
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/6:
+Int representation  : 3/6:1023:63/1/1/4104
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Link-Group ID       : 30                  
+Link-Group Acct     : 255/22:1:31/1/1/4109          
+Hardware address    : 00:30:88:13:a6:7a   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x302047f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/7:
+Int representation  : 3/7:1023:63/1/1/4107
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  : to_Radius           
+Hardware address    : 00:30:88:13:a6:7b   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 2
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x302047f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/8:
+Int representation  : 3/8:1023:63/1/1/4102
+State               : DOWN           Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  : test                
+Hardware address    : 00:30:88:13:a6:7c   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT down
+Last circuit attribute received from ISM: 0x302007f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/9:
+Int representation  : 3/9:1023:63/1/1/166
+State               : DOWN           Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  :                     
+Hardware address    : 00:30:88:13:a6:7d   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT down
+Last circuit attribute received from ISM: 0x302007f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/9 vlan-id 100:
+Int representation  : 3/9:1023:63/1/2/12294
+State               : DOWN           Stale               : no             
+Media type          : ethernet       Encap type          : dot1q          
+Bound to interface  :                     
+Hardware address    : 00:30:88:13:a6:7d   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: ID UNKNOWN -> 
+Last circuit attribute received from ISM: 0x20a027f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/10:
+Int representation  : 3/10:1023:63/1/1/168
+State               : DOWN           Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  :                     
+Hardware address    : 00:30:88:13:a6:7e   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x302007f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/10 vlan-id 100:
+Int representation  : 3/10:1023:63/1/2/12296
+State               : DOWN           Stale               : no             
+Media type          : ethernet       Encap type          : dot1q          
+Bound to interface  : ce                  
+Hardware address    : 00:30:88:13:a6:7e   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT down
+Last circuit attribute received from ISM: 0x202027f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 6/1:
+Int representation  : 6/1:1023:63/1/1/152
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  : oam                 
+Hardware address    : 00:30:88:04:1e:a0   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x302007f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit lg id 30 redback:
+Int representation  : 255/22:1:31/1/1/4109
+State               : DOWN           Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+No of Cccts         : 1              Link-Group ID       : 30             
+Bound to interface  :                     
+Hardware address    : 00:00:11:11:22:22   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: HDR only -> NONE
+Last circuit attribute received from ISM: 0x218007e
+
+-------------------------------------------------------------
+Displaying information for ARP circuit BVI 1:
+Int representation  : 255/31:1:2/1/1/153
+State               : DOWN           Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  :                     
+Hardware address    : 00:30:88:04:1e:a0   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT down
+Last circuit attribute received from ISM: 0x212003e
+
+-------------------------------------------------------------
+Displaying information for ARP circuit BVI 2:
+Int representation  : 255/31:1:3/1/1/12287
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  : vlan100             
+Hardware address    : 00:30:88:04:1e:a0   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 1
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x21a003e
+-------------------------------------------------------------
+[local]GSDCCHN-SE400-2#show ism client arp log det cct handle 1/1:1023:63/1/2/$lient arp log det cct handle 1/1:1023:63/1/2/          5
+
+Log for: arp
+Total events: 115, EOF index: 100
+
+Idx  Hdrid Subid Len Data
+
+[local]GSDCCHN-SE400-2#show ism client arp log det cct handle 1/1:1023:63/1/2/$lient arp log det cct handle 1/1:1023:63/1/2/          5
+
+Log for: arp
+Total events: 115, EOF index: 100
+
+Idx  Hdrid Subid Len Data
+
+[local]GSDCCHN-SE400-2#show ism client arp log det cct handle 2/1:1023:63/1/2/$lient arp log det cct handle 2/1:1023:63/1/2/          9
+
+Log for: arp
+Total events: 115, EOF index: 100
+
+Idx  Hdrid Subid Len Data
+
+[local]GSDCCHN-SE400-2#show ism client arp log det cct handle 2/1:1023:63/1/2/$lient arp log det cct handle 2/1:1023:63/1/2/          9
+
+Log for: arp
+Total events: 115, EOF index: 100
+
+Idx  Hdrid Subid Len Data
+
+[local]GSDCCHN-SE400-2#show ism client arp log det cct handle 3/1:1023:63/1/2/$lient arp log det cct handle 3/1:1023:63/1/2/          13
+
+Log for: arp
+Total events: 115, EOF index: 100
+
+Idx  Hdrid Subid Len Data
+
+[local]GSDCCHN-SE400-2#show ism client arp log det cct handle 3/1:1023:63/1/2/$lient arp log det cct handle 3/1:1023:63/1/2/          13
+
+Log for: arp
+Total events: 115, EOF index: 100
+
+Idx  Hdrid Subid Len Data
+
+[local]GSDCCHN-SE400-2#show ism client arp log det cct handle 4/1:1023:63/1/2/$lient arp log det cct handle 4/1:1023:63/1/2/          17
+
+Log for: arp
+Total events: 115, EOF index: 100
+
+Idx  Hdrid Subid Len Data
+
+[local]GSDCCHN-SE400-2#show ism client arp log det cct handle 4/1:1023:63/1/2/$lient arp log det cct handle 4/1:1023:63/1/2/          17
+
+Log for: arp
+Total events: 115, EOF index: 100
+
+Idx  Hdrid Subid Len Data
+
+[local]GSDCCHN-SE400-2#ping 192.168.251.142 100 flood
+PING 192.168.251.142 (192.168.251.142): source 172.16.125.103, 36 data bytes,
+timeout is 0.01 second
+...r.....r.........r.................r................................r.............................
+r - Redirect (host)
+
+----192.168.251.142 PING Statistics----
+100 packets transmitted, 0 packets received, 100.0% packet loss
+[local]GSDCCHN-SE400-2#ping 192.168.251.142 100 flood
+PING 192.168.251.142 (192.168.251.142): source 172.16.125.103, 36 data bytes,
+timeout is 0.01 second
+.......................r............................................................................
+r - Redirect (host)
+
+----192.168.251.142 PING Statistics----
+100 packets transmitted, 0 packets received, 100.0% packet loss
+[local]GSDCCHN-SE400-2#ping 192.168.251.157 100 flood
+PING 192.168.251.157 (192.168.251.157): source 172.16.125.103, 36 data bytes,
+timeout is 0.01 second
+...r.....r.........r................r.................................r.............................
+r - Redirect (host)
+
+----192.168.251.157 PING Statistics----
+100 packets transmitted, 0 packets received, 100.0% packet loss
+[local]GSDCCHN-SE400-2#ping 192.168.251.157 100 flood
+PING 192.168.251.157 (192.168.251.157): source 172.16.125.103, 36 data bytes,
+timeout is 0.01 second
+..........................r.........................................................................
+r - Redirect (host)
+
+----192.168.251.157 PING Statistics----
+100 packets transmitted, 0 packets received, 100.0% packet loss
+[local]GSDCCHN-SE400-2#ping 192.168.251.132 100 flood
+PING 192.168.251.132 (192.168.251.132): source 172.16.125.103, 36 data bytes,
+timeout is 0.01 second
+...r.....r.........r.................r................................r.............................
+r - Redirect (host)
+
+----192.168.251.132 PING Statistics----
+100 packets transmitted, 0 packets received, 100.0% packet loss
+[local]GSDCCHN-SE400-2#ping 192.168.251.132 100 flood
+PING 192.168.251.132 (192.168.251.132): source 172.16.125.103, 36 data bytes,
+timeout is 0.01 second
+.........................r..........................................................................
+r - Redirect (host)
+
+----192.168.251.132 PING Statistics----
+100 packets transmitted, 0 packets received, 100.0% packet loss
+[local]GSDCCHN-SE400-2#show ospf nei
+
+  --- OSPF Neighbors for Instance 100/Router ID 2.2.2.2 ---
+
+NeighborID      NeighborAddress Pri State    DR-State IntfAddress     TimeLeft
+1.1.1.1         100.0.12.1      1   Full     DR       100.0.12.2      36
+[local]GSDCCHN-SE400-2#show ospf nei
+
+  --- OSPF Neighbors for Instance 100/Router ID 2.2.2.2 ---
+
+NeighborID      NeighborAddress Pri State    DR-State IntfAddress     TimeLeft
+1.1.1.1         100.0.12.1      1   Full     DR       100.0.12.2      36
+[local]GSDCCHN-SE400-2#show ip route
+Codes: C - connected, S - static, S dv - dvsr, R - RIP, e B - EBGP, i B - IBGP
+       O   - OSPF, O3  - OSPFv3, IA - OSPF(v3) inter-area,
+       N1  - OSPF(v3) NSSA external type 1, N2  - OSPF(v3) NSSA external type 2
+       E1  - OSPF(v3) external type 1, E2  - OSPF(v3) external type 2
+       i   - IS-IS, L1 - IS-IS level-1,  L2  - IS-IS level-2, N - NAT
+       IPH - IP Host, SUB A - Subscriber address, SUB S - Subscriber static
+       M F - Mobile Sub Foreign Agent, M H - Mobile Sub Home Agent
+       A - Derived Default, MeH - Media Nexthop
+       >   - Active Route, * - LSP 
+
+Gateway of last resort is 172.16.125.12 to network 0.0.0.0
+
+Type    Network             Next Hop        Dist  Metric    UpTime  Interface           
+> S     0.0.0.0/0           172.16.125.12      1       0  04:46:19  oam       
+> O     1.1.1.1/32          100.0.12.1       110       2  04:46:12  r1-r2     
+> C     2.2.2.2/32                             0       0  04:46:21  loop      
+> S     61.190.199.195/32                      1       0  04:46:19            
+> C     100.0.12.0/30                          0       0  04:46:21  r1-r2     
+> C     172.16.125.0/24                        0       0  04:46:21  oam       
+> S     202.102.216.116/32  172.16.125.12      1       0  04:46:19  oam       
+> C     211.138.200.0/24                       0       0  04:46:21  to_Radius 
+> S     221.131.124.68/32                      1       0  04:46:19            
+[local]GSDCCHN-SE400-2#show ip route
+Codes: C - connected, S - static, S dv - dvsr, R - RIP, e B - EBGP, i B - IBGP
+       O   - OSPF, O3  - OSPFv3, IA - OSPF(v3) inter-area,
+       N1  - OSPF(v3) NSSA external type 1, N2  - OSPF(v3) NSSA external type 2
+       E1  - OSPF(v3) external type 1, E2  - OSPF(v3) external type 2
+       i   - IS-IS, L1 - IS-IS level-1,  L2  - IS-IS level-2, N - NAT
+       IPH - IP Host, SUB A - Subscriber address, SUB S - Subscriber static
+       M F - Mobile Sub Foreign Agent, M H - Mobile Sub Home Agent
+       A - Derived Default, MeH - Media Nexthop
+       >   - Active Route, * - LSP 
+
+Gateway of last resort is 172.16.125.12 to network 0.0.0.0
+
+Type    Network             Next Hop        Dist  Metric    UpTime  Interface           
+> S     0.0.0.0/0           172.16.125.12      1       0  04:46:19  oam       
+> O     1.1.1.1/32          100.0.12.1       110       2  04:46:12  r1-r2     
+> C     2.2.2.2/32                             0       0  04:46:21  loop      
+> S     61.190.199.195/32                      1       0  04:46:19            
+> C     100.0.12.0/30                          0       0  04:46:21  r1-r2     
+> C     172.16.125.0/24                        0       0  04:46:21  oam       
+> S     202.102.216.116/32  172.16.125.12      1       0  04:46:19  oam       
+> C     211.138.200.0/24                       0       0  04:46:21  to_Radius 
+> S     221.131.124.68/32                      1       0  04:46:19            
+[local]GSDCCHN-SE400-2#show vrrp stat
+% VRRP process is not running
+[local]GSDCCHN-SE400-2#show vrrp stat
+% VRRP process is not running
+[local]GSDCCHN-SE400-2#show port detail
+ethernet 3/1 state is Up  
+Description                :
+Line state                 : Up  
+Admin state                : Up
+Link Dampening             : disabled
+Undampened line state      : Up
+Dampening Count            : 0
+Encapsulation              : ethernet
+MTU size                   : 1600 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:75
+Media type                 : 1000Base-T
+Auto-negotiation           : on                 state: success
+   Flc negotiated set      : tx&rx-or-rx-only   state: tx&rx
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: n/a
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : 100 meters
+Loopback                   : off
+SFP Transceiver Status
+ Diag Monitor              : No                                      
+Active Alarms              : NONE
+
+ethernet 3/2 state is Up  
+Description                :
+Line state                 : Up  
+Admin state                : Up
+Link Dampening             : disabled
+Undampened line state      : Up
+Dampening Count            : 0
+Encapsulation              : ethernet
+MTU size                   : 1500 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:76
+Media type                 : 1000Base-T
+Auto-negotiation           : on                 state: success
+   Flc negotiated set      : tx&rx-or-rx-only   state: tx&rx
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: n/a
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : 100 meters
+Loopback                   : off
+SFP Transceiver Status
+ Diag Monitor              : No                                      
+Active Alarms              : NONE
+
+ethernet 3/3 state is Up  
+Description                :
+Line state                 : Up  
+Admin state                : Up
+Link Dampening             : disabled
+Undampened line state      : Up
+Dampening Count            : 0
+Encapsulation              : dot1q
+MTU size                   : 1500 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:77
+Media type                 : 1000Base-T
+Auto-negotiation           : on                 state: success
+   Flc negotiated set      : tx&rx-or-rx-only   state: tx&rx
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: n/a
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : 100 meters
+Loopback                   : off
+SFP Transceiver Status
+ Diag Monitor              : No                                      
+Active Alarms              : NONE
+
+ethernet 3/4 state is Up  
+Description                :
+Line state                 : Up  
+Admin state                : Up
+Link Dampening             : disabled
+Undampened line state      : Up
+Dampening Count            : 0
+Encapsulation              : dot1q
+MTU size                   : 1500 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:78
+Media type                 : 1000Base-T
+Auto-negotiation           : on                 state: success
+   Flc negotiated set      : tx&rx-or-rx-only   state: tx&rx
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: n/a
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : 100 meters
+Loopback                   : off
+SFP Transceiver Status
+ Diag Monitor              : No                                      
+Active Alarms              : NONE
+
+ethernet 3/5 state is Up  
+Description                :
+Line state                 : Up  
+Admin state                : Up
+Link Dampening             : disabled
+Undampened line state      : Up
+Dampening Count            : 0
+Encapsulation              : ethernet
+MTU size                   : 1500 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:79
+Media type                 : 1000Base-SX
+Auto-negotiation           : on                 state: success
+   Flc negotiated set      : tx&rx-or-rx-only   state: tx&rx
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: n/a
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : 300 meters
+Loopback                   : off
+SFP Transceiver Status
+ Wavelength                : 850.00 nm
+ Diag Monitor              : Yes                                     
+ Tx Fault                  : No Fault                                
+ Rx Fault                  : LOW-PWR-ALARM                           
+ Tx Pwr measured[dbm]      : -6.15                                   
+ Rx Pwr measured[dbm]      : -17.93                                  
+ Temperature               : 42 C                                    
+ Vcc Measured              : 3.27 V                                  
+Active Alarms              : NONE
+
+ethernet 3/6 state is Up  
+Description                :
+Line state                 : Up  
+Admin state                : Up
+Link Dampening             : disabled
+Undampened line state      : Up
+Dampening Count            : 0
+Encapsulation              : ethernet
+MTU size                   : 1500 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:7a
+Media type                 : 1000Base-T
+Auto-negotiation           : on                 state: success
+   Flc negotiated set      : tx&rx-or-rx-only   state: tx&rx
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: n/a
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : 100 meters
+Loopback                   : off
+SFP Transceiver Status
+ Diag Monitor              : No                                      
+Active Alarms              : NONE
+
+ethernet 3/7 state is Up  
+Description                :
+Line state                 : Up  
+Admin state                : Up
+Link Dampening             : disabled
+Undampened line state      : Up
+Dampening Count            : 0
+Encapsulation              : ethernet
+MTU size                   : 1500 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:7b
+Media type                 : 1000Base-T
+Auto-negotiation           : on                 state: success
+   Flc negotiated set      : tx&rx-or-rx-only   state: tx&rx
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: n/a
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : 100 meters
+Loopback                   : off
+SFP Transceiver Status
+ Diag Monitor              : No                                      
+Active Alarms              : NONE
+
+ethernet 3/8 state is Down  
+Description                :
+Line state                 : Down  
+Admin state                : Up
+Link Dampening             : disabled
+Undampened line state      : Down
+Dampening Count            : 0
+Encapsulation              : ethernet
+MTU size                   : 1500 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:7c
+Media type                 : 1000Base-SX
+Auto-negotiation           : on                 state: fail
+   Flc negotiated set      : tx&rx-or-rx-only   state: n/a
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: rx
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : 300 meters
+Loopback                   : off
+SFP Transceiver Status
+ Wavelength                : 850.00 nm
+ Diag Monitor              : Yes                                     
+ Tx Fault                  : No Fault                                
+ Rx Fault                  : LOS-Fault                               
+ Tx Pwr measured[dbm]      : -5.04                                   
+ Rx Pwr measured[dbm]      : -20.56                                  
+ Temperature               : 55 C                                    
+ Vcc Measured              : 3.26 V                                  
+Active Alarms              : Link down 
+
+ethernet 3/9 state is Down  
+Description                :
+Line state                 : Down  
+Admin state                : Up
+Link Dampening             : enabled
+Link up delay              : 10000
+Link down delay            : 2500
+Undampened line state      : Down
+Dampening Count            : 3
+Encapsulation              : dot1q
+MTU size                   : 1500 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:7d
+Media type                 : No transceiver
+Auto-negotiation           : on                 state: fail
+   Flc negotiated set      : tx&rx-or-rx-only   state: n/a
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: rx
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : N/A
+Loopback                   : off
+SFP Transceiver Status
+ Wavelength                : 0.00   nm
+ Diag Monitor              : No                                      
+Active Alarms              : Link down 
+
+ethernet 3/10 state is Down  
+Description                :
+Line state                 : Down  
+Admin state                : Up
+Link Dampening             : disabled
+Undampened line state      : Down
+Dampening Count            : 0
+Encapsulation              : dot1q
+MTU size                   : 1500 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:7e
+Media type                 : 1000Base-T
+Auto-negotiation           : on                 state: fail
+   Flc negotiated set      : tx&rx-or-rx-only   state: n/a
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: rx
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : 100 meters
+Loopback                   : off
+SFP Transceiver Status
+ Diag Monitor              : No                                      
+Active Alarms              : Link down 
+
+ethernet 6/1 state is Up  
+Description                :
+Line state                 : Up  
+Admin state                : Up
+Encapsulation              : ethernet
+MTU size                   : 1500 Bytes
+MAC address                : 00:30:88:04:1e:a0
+Media type                 : 100Base-Tx
+Speed                      : 100 Mbps
+Duplex mode                : full
+Active Alarms              : NONE
+
+[local]GSDCCHN-SE400-2#show port detail
+ethernet 3/1 state is Up  
+Description                :
+Line state                 : Up  
+Admin state                : Up
+Link Dampening             : disabled
+Undampened line state      : Up
+Dampening Count            : 0
+Encapsulation              : ethernet
+MTU size                   : 1600 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:75
+Media type                 : 1000Base-T
+Auto-negotiation           : on                 state: success
+   Flc negotiated set      : tx&rx-or-rx-only   state: tx&rx
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: n/a
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : 100 meters
+Loopback                   : off
+SFP Transceiver Status
+ Diag Monitor              : No                                      
+Active Alarms              : NONE
+
+ethernet 3/2 state is Up  
+Description                :
+Line state                 : Up  
+Admin state                : Up
+Link Dampening             : disabled
+Undampened line state      : Up
+Dampening Count            : 0
+Encapsulation              : ethernet
+MTU size                   : 1500 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:76
+Media type                 : 1000Base-T
+Auto-negotiation           : on                 state: success
+   Flc negotiated set      : tx&rx-or-rx-only   state: tx&rx
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: n/a
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : 100 meters
+Loopback                   : off
+SFP Transceiver Status
+ Diag Monitor              : No                                      
+Active Alarms              : NONE
+
+ethernet 3/3 state is Up  
+Description                :
+Line state                 : Up  
+Admin state                : Up
+Link Dampening             : disabled
+Undampened line state      : Up
+Dampening Count            : 0
+Encapsulation              : dot1q
+MTU size                   : 1500 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:77
+Media type                 : 1000Base-T
+Auto-negotiation           : on                 state: success
+   Flc negotiated set      : tx&rx-or-rx-only   state: tx&rx
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: n/a
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : 100 meters
+Loopback                   : off
+SFP Transceiver Status
+ Diag Monitor              : No                                      
+Active Alarms              : NONE
+
+ethernet 3/4 state is Up  
+Description                :
+Line state                 : Up  
+Admin state                : Up
+Link Dampening             : disabled
+Undampened line state      : Up
+Dampening Count            : 0
+Encapsulation              : dot1q
+MTU size                   : 1500 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:78
+Media type                 : 1000Base-T
+Auto-negotiation           : on                 state: success
+   Flc negotiated set      : tx&rx-or-rx-only   state: tx&rx
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: n/a
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : 100 meters
+Loopback                   : off
+SFP Transceiver Status
+ Diag Monitor              : No                                      
+Active Alarms              : NONE
+
+ethernet 3/5 state is Up  
+Description                :
+Line state                 : Up  
+Admin state                : Up
+Link Dampening             : disabled
+Undampened line state      : Up
+Dampening Count            : 0
+Encapsulation              : ethernet
+MTU size                   : 1500 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:79
+Media type                 : 1000Base-SX
+Auto-negotiation           : on                 state: success
+   Flc negotiated set      : tx&rx-or-rx-only   state: tx&rx
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: n/a
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : 300 meters
+Loopback                   : off
+SFP Transceiver Status
+ Wavelength                : 850.00 nm
+ Diag Monitor              : Yes                                     
+ Tx Fault                  : No Fault                                
+ Rx Fault                  : LOW-PWR-ALARM                           
+ Tx Pwr measured[dbm]      : -6.12                                   
+ Rx Pwr measured[dbm]      : -17.93                                  
+ Temperature               : 42 C                                    
+ Vcc Measured              : 3.27 V                                  
+Active Alarms              : NONE
+
+ethernet 3/6 state is Up  
+Description                :
+Line state                 : Up  
+Admin state                : Up
+Link Dampening             : disabled
+Undampened line state      : Up
+Dampening Count            : 0
+Encapsulation              : ethernet
+MTU size                   : 1500 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:7a
+Media type                 : 1000Base-T
+Auto-negotiation           : on                 state: success
+   Flc negotiated set      : tx&rx-or-rx-only   state: tx&rx
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: n/a
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : 100 meters
+Loopback                   : off
+SFP Transceiver Status
+ Diag Monitor              : No                                      
+Active Alarms              : NONE
+
+ethernet 3/7 state is Up  
+Description                :
+Line state                 : Up  
+Admin state                : Up
+Link Dampening             : disabled
+Undampened line state      : Up
+Dampening Count            : 0
+Encapsulation              : ethernet
+MTU size                   : 1500 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:7b
+Media type                 : 1000Base-T
+Auto-negotiation           : on                 state: success
+   Flc negotiated set      : tx&rx-or-rx-only   state: tx&rx
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: n/a
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : 100 meters
+Loopback                   : off
+SFP Transceiver Status
+ Diag Monitor              : No                                      
+Active Alarms              : NONE
+
+ethernet 3/8 state is Down  
+Description                :
+Line state                 : Down  
+Admin state                : Up
+Link Dampening             : disabled
+Undampened line state      : Down
+Dampening Count            : 0
+Encapsulation              : ethernet
+MTU size                   : 1500 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:7c
+Media type                 : 1000Base-SX
+Auto-negotiation           : on                 state: fail
+   Flc negotiated set      : tx&rx-or-rx-only   state: n/a
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: rx
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : 300 meters
+Loopback                   : off
+SFP Transceiver Status
+ Wavelength                : 850.00 nm
+ Diag Monitor              : Yes                                     
+ Tx Fault                  : No Fault                                
+ Rx Fault                  : LOS-Fault                               
+ Tx Pwr measured[dbm]      : -5.03                                   
+ Rx Pwr measured[dbm]      : -20.56                                  
+ Temperature               : 55 C                                    
+ Vcc Measured              : 3.26 V                                  
+Active Alarms              : Link down 
+
+ethernet 3/9 state is Down  
+Description                :
+Line state                 : Down  
+Admin state                : Up
+Link Dampening             : enabled
+Link up delay              : 10000
+Link down delay            : 2500
+Undampened line state      : Down
+Dampening Count            : 3
+Encapsulation              : dot1q
+MTU size                   : 1500 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:7d
+Media type                 : No transceiver
+Auto-negotiation           : on                 state: fail
+   Flc negotiated set      : tx&rx-or-rx-only   state: n/a
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: rx
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : N/A
+Loopback                   : off
+SFP Transceiver Status
+ Wavelength                : 0.00   nm
+ Diag Monitor              : No                                      
+Active Alarms              : Link down 
+
+ethernet 3/10 state is Down  
+Description                :
+Line state                 : Down  
+Admin state                : Up
+Link Dampening             : disabled
+Undampened line state      : Down
+Dampening Count            : 0
+Encapsulation              : dot1q
+MTU size                   : 1500 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:7e
+Media type                 : 1000Base-T
+Auto-negotiation           : on                 state: fail
+   Flc negotiated set      : tx&rx-or-rx-only   state: n/a
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: rx
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : 100 meters
+Loopback                   : off
+SFP Transceiver Status
+ Diag Monitor              : No                                      
+Active Alarms              : Link down 
+
+ethernet 6/1 state is Up  
+Description                :
+Line state                 : Up  
+Admin state                : Up
+Encapsulation              : ethernet
+MTU size                   : 1500 Bytes
+MAC address                : 00:30:88:04:1e:a0
+Media type                 : 100Base-Tx
+Speed                      : 100 Mbps
+Duplex mode                : full
+Active Alarms              : NONE
+
+[local]GSDCCHN-SE400-2#ping 10.251.133.199 20 flood
+PING 10.251.133.199 (10.251.133.199): source 172.16.125.103, 36 data bytes,
+timeout is 0.01 second
+....................
+
+----10.251.133.199 PING Statistics----
+20 packets transmitted, 0 packets received, 100.0% packet loss
+[local]GSDCCHN-SE400-2#ping 10.251.133.199 20 flood
+PING 10.251.133.199 (10.251.133.199): source 172.16.125.103, 36 data bytes,
+timeout is 0.01 second
+....................
+
+----10.251.133.199 PING Statistics----
+20 packets transmitted, 0 packets received, 100.0% packet loss
+[local]GSDCCHN-SE400-2#ping 10.251.135.199 20 flood
+PING 10.251.135.199 (10.251.135.199): source 172.16.125.103, 36 data bytes,
+timeout is 0.01 second
+....................
+
+----10.251.135.199 PING Statistics----
+20 packets transmitted, 0 packets received, 100.0% packet loss
+[local]GSDCCHN-SE400-2#ping 10.251.135.199 20 flood
+PING 10.251.135.199 (10.251.135.199): source 172.16.125.103, 36 data bytes,
+timeout is 0.01 second
+....................
+
+----10.251.135.199 PING Statistics----
+20 packets transmitted, 0 packets received, 100.0% packet loss
+[local]GSDCCHN-SE400-2#ping 10.251.137.199 20 flood
+PING 10.251.137.199 (10.251.137.199): source 172.16.125.103, 36 data bytes,
+timeout is 0.01 second
+....................
+
+----10.251.137.199 PING Statistics----
+20 packets transmitted, 0 packets received, 100.0% packet loss
+[local]GSDCCHN-SE400-2#ping 10.251.137.199 20 flood
+PING 10.251.137.199 (10.251.137.199): source 172.16.125.103, 36 data bytes,
+timeout is 0.01 second
+....................
+
+----10.251.137.199 PING Statistics----
+20 packets transmitted, 0 packets received, 100.0% packet loss
+[local]GSDCCHN-SE400-2#ping 10.251.139.199 20 flood
+PING 10.251.139.199 (10.251.139.199): source 172.16.125.103, 36 data bytes,
+timeout is 0.01 second
+....................
+
+----10.251.139.199 PING Statistics----
+20 packets transmitted, 0 packets received, 100.0% packet loss
+[local]GSDCCHN-SE400-2#ping 10.251.139.199 20 flood
+PING 10.251.139.199 (10.251.139.199): source 172.16.125.103, 36 data bytes,
+timeout is 0.01 second
+....................
+
+----10.251.139.199 PING Statistics----
+20 packets transmitted, 0 packets received, 100.0% packet loss
+[local]GSDCCHN-SE400-2#show arp
+Total number of arp entries in cache: 4
+  Resolved entry   : 4
+  Incomplete entry : 0
+
+Host              Hardware address    Ttl    Type  Circuit            
+100.0.12.1        00:30:88:13:a8:09   3498   ARPA  3/5                
+100.0.12.2        00:30:88:13:a6:79   -      ARPA  3/5                
+211.138.200.18    00:0b:cd:3e:f5:fc   2172   ARPA  3/7                
+211.138.200.20    00:30:88:13:a6:7b   -      ARPA  3/7                
+[local]GSDCCHN-SE400-2#show arp
+Total number of arp entries in cache: 4
+  Resolved entry   : 4
+  Incomplete entry : 0
+
+Host              Hardware address    Ttl    Type  Circuit            
+100.0.12.1        00:30:88:13:a8:09   3498   ARPA  3/5                
+100.0.12.2        00:30:88:13:a6:79   -      ARPA  3/5                
+211.138.200.18    00:0b:cd:3e:f5:fc   2172   ARPA  3/7                
+211.138.200.20    00:30:88:13:a6:7b   -      ARPA  3/7                
+[local]GSDCCHN-SE400-2#show vrrp
+% VRRP process is not running
+[local]GSDCCHN-SE400-2#show vrrp
+% VRRP process is not running
+[local]GSDCCHN-SE400-2#!!!!ping failure detected!!!!
+[local]GSDCCHN-SE400-2#!!!!ping failure detected!!!!
+[local]GSDCCHN-SE400-2#show clock
+Mon Jul 26 17:29:30 2010 EST
+[local]GSDCCHN-SE400-2#show clock
+Mon Jul 26 17:29:30 2010 EST
+[local]GSDCCHN-SE400-2#show arp all
+Total number of arp entries in cache: 4
+  Resolved entry   : 4
+  Incomplete entry : 0
+
+Host              Hardware address    Ttl    Type  Circuit            
+100.0.12.1        00:30:88:13:a8:09   3497   ARPA  3/5                
+100.0.12.2        00:30:88:13:a6:79   -      ARPA  3/5                
+211.138.200.18    00:0b:cd:3e:f5:fc   2171   ARPA  3/7                
+211.138.200.20    00:30:88:13:a6:7b   -      ARPA  3/7                
+
+Showing ARP entries on Cross-connect RP:
+Host              Hardware address    Ttl    Type      
+172.16.125.10     00:0b:cd:3e:f5:fd   952    ARPA  
+172.16.125.12     00:0b:cd:0e:f0:24   1197   ARPA  
+172.16.125.103    00:30:88:04:1e:a0   1197   ARPA  
+172.16.125.223    00:04:96:37:11:c5   1084   ARPA  
+[local]GSDCCHN-SE400-2#show arp all
+Total number of arp entries in cache: 4
+  Resolved entry   : 4
+  Incomplete entry : 0
+
+Host              Hardware address    Ttl    Type  Circuit            
+100.0.12.1        00:30:88:13:a8:09   3497   ARPA  3/5                
+100.0.12.2        00:30:88:13:a6:79   -      ARPA  3/5                
+211.138.200.18    00:0b:cd:3e:f5:fc   2171   ARPA  3/7                
+211.138.200.20    00:30:88:13:a6:7b   -      ARPA  3/7                
+
+Showing ARP entries on Cross-connect RP:
+Host              Hardware address    Ttl    Type      
+172.16.125.10     00:0b:cd:3e:f5:fd   952    ARPA  
+172.16.125.12     00:0b:cd:0e:f0:24   1197   ARPA  
+172.16.125.103    00:30:88:04:1e:a0   1197   ARPA  
+172.16.125.223    00:04:96:37:11:c5   1084   ARPA  
+[local]GSDCCHN-SE400-2#show arp interface
+
+------------------------------------------------------------
+Display ARP information for interface oam:
+Interface is bound to a managment port
+
+------------------------------------------------------------
+Display ARP information for interface r1-r2:
+ifgrid              : 0x10060001 ARP enabled         : Yes       
+State:              : Up         Stale:              : No        
+Multi-Bound         : No         No of Circuits bound: 1         
+Cache timeout (sec) : 3600       Proxy ARP           : Off       
+Expired entries are : refreshed  Secured Arp         : Off       
+Un-numbered         : No         Last resort         : No        
+if_flags            : 0x0       
+Primary IP address  : 100.0.12.2
+
+Last interface events received from ISM: I/F cfg -> I/F Unknown
+Last interface events attributes from ISM: 0x98ff
+
+------------------------------------------------------------
+Display ARP information for interface to_Radius:
+ifgrid              : 0x1007fffc ARP enabled         : Yes       
+State:              : Up         Stale:              : No        
+Multi-Bound         : No         No of Circuits bound: 1         
+Cache timeout (sec) : 3600       Proxy ARP           : Off       
+Expired entries are : refreshed  Secured Arp         : Off       
+Un-numbered         : No         Last resort         : No        
+if_flags            : 0x0       
+Primary IP address  : 211.138.200.20
+
+Last interface events received from ISM: I/F cfg -> I/F Unknown
+Last interface events attributes from ISM: 0x98ff
+
+[local]GSDCCHN-SE400-2#show arp interface
+
+------------------------------------------------------------
+Display ARP information for interface oam:
+Interface is bound to a managment port
+
+------------------------------------------------------------
+Display ARP information for interface r1-r2:
+ifgrid              : 0x10060001 ARP enabled         : Yes       
+State:              : Up         Stale:              : No        
+Multi-Bound         : No         No of Circuits bound: 1         
+Cache timeout (sec) : 3600       Proxy ARP           : Off       
+Expired entries are : refreshed  Secured Arp         : Off       
+Un-numbered         : No         Last resort         : No        
+if_flags            : 0x0       
+Primary IP address  : 100.0.12.2
+
+Last interface events received from ISM: I/F cfg -> I/F Unknown
+Last interface events attributes from ISM: 0x98ff
+
+------------------------------------------------------------
+Display ARP information for interface to_Radius:
+ifgrid              : 0x1007fffc ARP enabled         : Yes       
+State:              : Up         Stale:              : No        
+Multi-Bound         : No         No of Circuits bound: 1         
+Cache timeout (sec) : 3600       Proxy ARP           : Off       
+Expired entries are : refreshed  Secured Arp         : Off       
+Un-numbered         : No         Last resort         : No        
+if_flags            : 0x0       
+Primary IP address  : 211.138.200.20
+
+Last interface events received from ISM: I/F cfg -> I/F Unknown
+Last interface events attributes from ISM: 0x98ff
+
+[local]GSDCCHN-SE400-2#show arp circuit
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/1:
+Int representation  : 3/1:1023:63/1/1/12300
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  : ge2/1               
+Hardware address    : 00:30:88:13:a6:75   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 2
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x302007f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/2:
+Int representation  : 3/2:1023:63/1/1/16385
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  : only4test           
+Hardware address    : 00:30:88:13:a6:76   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 1
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x302007f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/3:
+Int representation  : 3/3:1023:63/1/1/12288
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  :                     
+Hardware address    : 00:30:88:13:a6:77   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x302007f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/3 vlan-id 100:
+Int representation  : 3/3:1023:63/1/2/12289
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : dot1q          
+Bound to interface  :                     
+Hardware address    : 00:30:88:13:a6:77   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: ID UNKNOWN -> 
+Last circuit attribute received from ISM: 0x20a027f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/4:
+Int representation  : 3/4:1023:63/1/1/161
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  :                     
+Hardware address    : 00:30:88:13:a6:78   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x302007f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/4 vlan-id 100:
+Int representation  : 3/4:1023:63/1/2/12290
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : dot1q          
+Bound to interface  :                     
+Hardware address    : 00:30:88:13:a6:78   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: ID UNKNOWN -> 
+Last circuit attribute received from ISM: 0x20a027f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/5:
+Int representation  : 3/5:1023:63/1/1/4100
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  : r1-r2               
+Hardware address    : 00:30:88:13:a6:79   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 2
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x30200ff
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/6:
+Int representation  : 3/6:1023:63/1/1/4104
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Link-Group ID       : 30                  
+Link-Group Acct     : 255/22:1:31/1/1/4109          
+Hardware address    : 00:30:88:13:a6:7a   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x302047f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/7:
+Int representation  : 3/7:1023:63/1/1/4107
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  : to_Radius           
+Hardware address    : 00:30:88:13:a6:7b   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 2
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x302047f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/8:
+Int representation  : 3/8:1023:63/1/1/4102
+State               : DOWN           Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  : test                
+Hardware address    : 00:30:88:13:a6:7c   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT down
+Last circuit attribute received from ISM: 0x302007f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/9:
+Int representation  : 3/9:1023:63/1/1/166
+State               : DOWN           Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  :                     
+Hardware address    : 00:30:88:13:a6:7d   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT down
+Last circuit attribute received from ISM: 0x302007f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/9 vlan-id 100:
+Int representation  : 3/9:1023:63/1/2/12294
+State               : DOWN           Stale               : no             
+Media type          : ethernet       Encap type          : dot1q          
+Bound to interface  :                     
+Hardware address    : 00:30:88:13:a6:7d   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: ID UNKNOWN -> 
+Last circuit attribute received from ISM: 0x20a027f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/10:
+Int representation  : 3/10:1023:63/1/1/168
+State               : DOWN           Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  :                     
+Hardware address    : 00:30:88:13:a6:7e   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x302007f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/10 vlan-id 100:
+Int representation  : 3/10:1023:63/1/2/12296
+State               : DOWN           Stale               : no             
+Media type          : ethernet       Encap type          : dot1q          
+Bound to interface  : ce                  
+Hardware address    : 00:30:88:13:a6:7e   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT down
+Last circuit attribute received from ISM: 0x202027f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 6/1:
+Int representation  : 6/1:1023:63/1/1/152
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  : oam                 
+Hardware address    : 00:30:88:04:1e:a0   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x302007f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit lg id 30 redback:
+Int representation  : 255/22:1:31/1/1/4109
+State               : DOWN           Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+No of Cccts         : 1              Link-Group ID       : 30             
+Bound to interface  :                     
+Hardware address    : 00:00:11:11:22:22   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: HDR only -> NONE
+Last circuit attribute received from ISM: 0x218007e
+
+-------------------------------------------------------------
+Displaying information for ARP circuit BVI 1:
+Int representation  : 255/31:1:2/1/1/153
+State               : DOWN           Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  :                     
+Hardware address    : 00:30:88:04:1e:a0   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT down
+Last circuit attribute received from ISM: 0x212003e
+
+-------------------------------------------------------------
+Displaying information for ARP circuit BVI 2:
+Int representation  : 255/31:1:3/1/1/12287
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  : vlan100             
+Hardware address    : 00:30:88:04:1e:a0   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 1
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x21a003e
+-------------------------------------------------------------
+[local]GSDCCHN-SE400-2#show arp circuit
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/1:
+Int representation  : 3/1:1023:63/1/1/12300
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  : ge2/1               
+Hardware address    : 00:30:88:13:a6:75   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 2
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x302007f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/2:
+Int representation  : 3/2:1023:63/1/1/16385
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  : only4test           
+Hardware address    : 00:30:88:13:a6:76   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 1
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x302007f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/3:
+Int representation  : 3/3:1023:63/1/1/12288
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  :                     
+Hardware address    : 00:30:88:13:a6:77   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x302007f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/3 vlan-id 100:
+Int representation  : 3/3:1023:63/1/2/12289
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : dot1q          
+Bound to interface  :                     
+Hardware address    : 00:30:88:13:a6:77   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: ID UNKNOWN -> 
+Last circuit attribute received from ISM: 0x20a027f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/4:
+Int representation  : 3/4:1023:63/1/1/161
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  :                     
+Hardware address    : 00:30:88:13:a6:78   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x302007f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/4 vlan-id 100:
+Int representation  : 3/4:1023:63/1/2/12290
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : dot1q          
+Bound to interface  :                     
+Hardware address    : 00:30:88:13:a6:78   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: ID UNKNOWN -> 
+Last circuit attribute received from ISM: 0x20a027f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/5:
+Int representation  : 3/5:1023:63/1/1/4100
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  : r1-r2               
+Hardware address    : 00:30:88:13:a6:79   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 2
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x30200ff
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/6:
+Int representation  : 3/6:1023:63/1/1/4104
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Link-Group ID       : 30                  
+Link-Group Acct     : 255/22:1:31/1/1/4109          
+Hardware address    : 00:30:88:13:a6:7a   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x302047f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/7:
+Int representation  : 3/7:1023:63/1/1/4107
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  : to_Radius           
+Hardware address    : 00:30:88:13:a6:7b   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 2
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x302047f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/8:
+Int representation  : 3/8:1023:63/1/1/4102
+State               : DOWN           Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  : test                
+Hardware address    : 00:30:88:13:a6:7c   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT down
+Last circuit attribute received from ISM: 0x302007f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/9:
+Int representation  : 3/9:1023:63/1/1/166
+State               : DOWN           Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  :                     
+Hardware address    : 00:30:88:13:a6:7d   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT down
+Last circuit attribute received from ISM: 0x302007f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/9 vlan-id 100:
+Int representation  : 3/9:1023:63/1/2/12294
+State               : DOWN           Stale               : no             
+Media type          : ethernet       Encap type          : dot1q          
+Bound to interface  :                     
+Hardware address    : 00:30:88:13:a6:7d   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: ID UNKNOWN -> 
+Last circuit attribute received from ISM: 0x20a027f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/10:
+Int representation  : 3/10:1023:63/1/1/168
+State               : DOWN           Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  :                     
+Hardware address    : 00:30:88:13:a6:7e   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x302007f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 3/10 vlan-id 100:
+Int representation  : 3/10:1023:63/1/2/12296
+State               : DOWN           Stale               : no             
+Media type          : ethernet       Encap type          : dot1q          
+Bound to interface  : ce                  
+Hardware address    : 00:30:88:13:a6:7e   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT down
+Last circuit attribute received from ISM: 0x202027f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit 6/1:
+Int representation  : 6/1:1023:63/1/1/152
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  : oam                 
+Hardware address    : 00:30:88:04:1e:a0   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x302007f
+
+-------------------------------------------------------------
+Displaying information for ARP circuit lg id 30 redback:
+Int representation  : 255/22:1:31/1/1/4109
+State               : DOWN           Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+No of Cccts         : 1              Link-Group ID       : 30             
+Bound to interface  :                     
+Hardware address    : 00:00:11:11:22:22   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: HDR only -> NONE
+Last circuit attribute received from ISM: 0x218007e
+
+-------------------------------------------------------------
+Displaying information for ARP circuit BVI 1:
+Int representation  : 255/31:1:2/1/1/153
+State               : DOWN           Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  :                     
+Hardware address    : 00:30:88:04:1e:a0   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 0
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT down
+Last circuit attribute received from ISM: 0x212003e
+
+-------------------------------------------------------------
+Displaying information for ARP circuit BVI 2:
+Int representation  : 255/31:1:3/1/1/12287
+State               : UP             Stale               : no             
+Media type          : ethernet       Encap type          : ethernet       
+Bound to interface  : vlan100             
+Hardware address    : 00:30:88:04:1e:a0   
+cct_flags           : 0x0
+
+Number of ARP entries for this circuit: 1
+Number of IPHOST entries for this circuit: 0
+Last circuit event received from ISM: CCT state -> CCT up
+Last circuit attribute received from ISM: 0x21a003e
+-------------------------------------------------------------
+[local]GSDCCHN-SE400-2#show ism client arp log det cct handle 1/1:1023:63/1/2/$lient arp log det cct handle 1/1:1023:63/1/2/          5
+
+Log for: arp
+Total events: 115, EOF index: 100
+
+Idx  Hdrid Subid Len Data
+
+[local]GSDCCHN-SE400-2#show ism client arp log det cct handle 1/1:1023:63/1/2/$lient arp log det cct handle 1/1:1023:63/1/2/          5
+
+Log for: arp
+Total events: 115, EOF index: 100
+
+Idx  Hdrid Subid Len Data
+
+[local]GSDCCHN-SE400-2#show ism client arp log det cct handle 2/1:1023:63/1/2/$lient arp log det cct handle 2/1:1023:63/1/2/          9
+
+Log for: arp
+Total events: 115, EOF index: 100
+
+Idx  Hdrid Subid Len Data
+
+[local]GSDCCHN-SE400-2#show ism client arp log det cct handle 2/1:1023:63/1/2/$lient arp log det cct handle 2/1:1023:63/1/2/          9
+
+Log for: arp
+Total events: 115, EOF index: 100
+
+Idx  Hdrid Subid Len Data
+
+[local]GSDCCHN-SE400-2#show ism client arp log det cct handle 3/1:1023:63/1/2/$lient arp log det cct handle 3/1:1023:63/1/2/          13
+
+Log for: arp
+Total events: 115, EOF index: 100
+
+Idx  Hdrid Subid Len Data
+
+[local]GSDCCHN-SE400-2#show ism client arp log det cct handle 3/1:1023:63/1/2/$lient arp log det cct handle 3/1:1023:63/1/2/          13
+
+Log for: arp
+Total events: 115, EOF index: 100
+
+Idx  Hdrid Subid Len Data
+
+[local]GSDCCHN-SE400-2#show ism client arp log det cct handle 4/1:1023:63/1/2/$lient arp log det cct handle 4/1:1023:63/1/2/          17
+
+Log for: arp
+Total events: 115, EOF index: 100
+
+Idx  Hdrid Subid Len Data
+
+[local]GSDCCHN-SE400-2#show ism client arp log det cct handle 4/1:1023:63/1/2/$lient arp log det cct handle 4/1:1023:63/1/2/          17
+
+Log for: arp
+Total events: 115, EOF index: 100
+
+Idx  Hdrid Subid Len Data
+
+[local]GSDCCHN-SE400-2#ping 192.168.251.142 100 flood
+PING 192.168.251.142 (192.168.251.142): source 172.16.125.103, 36 data bytes,
+timeout is 0.01 second
+...r.....r.........r...............r.................................r..............................
+r - Redirect (host)
+
+----192.168.251.142 PING Statistics----
+100 packets transmitted, 0 packets received, 100.0% packet loss
+[local]GSDCCHN-SE400-2#ping 192.168.251.142 100 flood
+PING 192.168.251.142 (192.168.251.142): source 172.16.125.103, 36 data bytes,
+timeout is 0.01 second
+........................r...........................................................................
+r - Redirect (host)
+
+----192.168.251.142 PING Statistics----
+100 packets transmitted, 0 packets received, 100.0% packet loss
+[local]GSDCCHN-SE400-2#ping 192.168.251.157 100 flood
+PING 192.168.251.157 (192.168.251.157): source 172.16.125.103, 36 data bytes,
+timeout is 0.01 second
+...r....r........r.................r...............................r................................
+r - Redirect (host)
+
+----192.168.251.157 PING Statistics----
+100 packets transmitted, 0 packets received, 100.0% packet loss
+[local]GSDCCHN-SE400-2#ping 192.168.251.157 100 flood
+PING 192.168.251.157 (192.168.251.157): source 172.16.125.103, 36 data bytes,
+timeout is 0.01 second
+.......................r............................................................................
+r - Redirect (host)
+
+----192.168.251.157 PING Statistics----
+100 packets transmitted, 0 packets received, 100.0% packet loss
+[local]GSDCCHN-SE400-2#ping 192.168.251.132 100 flood
+PING 192.168.251.132 (192.168.251.132): source 172.16.125.103, 36 data bytes,
+timeout is 0.01 second
+...r....r.........r................r................................r...............................
+r - Redirect (host)
+
+----192.168.251.132 PING Statistics----
+100 packets transmitted, 0 packets received, 100.0% packet loss
+[local]GSDCCHN-SE400-2#ping 192.168.251.132 100 flood
+PING 192.168.251.132 (192.168.251.132): source 172.16.125.103, 36 data bytes,
+timeout is 0.01 second
+....................r...............................................................................
+r - Redirect (host)
+
+----192.168.251.132 PING Statistics----
+100 packets transmitted, 0 packets received, 100.0% packet loss
+[local]GSDCCHN-SE400-2#show ospf nei
+
+  --- OSPF Neighbors for Instance 100/Router ID 2.2.2.2 ---
+
+NeighborID      NeighborAddress Pri State    DR-State IntfAddress     TimeLeft
+1.1.1.1         100.0.12.1      1   Full     DR       100.0.12.2      39
+[local]GSDCCHN-SE400-2#show ospf nei
+
+  --- OSPF Neighbors for Instance 100/Router ID 2.2.2.2 ---
+
+NeighborID      NeighborAddress Pri State    DR-State IntfAddress     TimeLeft
+1.1.1.1         100.0.12.1      1   Full     DR       100.0.12.2      39
+[local]GSDCCHN-SE400-2#show ip route
+Codes: C - connected, S - static, S dv - dvsr, R - RIP, e B - EBGP, i B - IBGP
+       O   - OSPF, O3  - OSPFv3, IA - OSPF(v3) inter-area,
+       N1  - OSPF(v3) NSSA external type 1, N2  - OSPF(v3) NSSA external type 2
+       E1  - OSPF(v3) external type 1, E2  - OSPF(v3) external type 2
+       i   - IS-IS, L1 - IS-IS level-1,  L2  - IS-IS level-2, N - NAT
+       IPH - IP Host, SUB A - Subscriber address, SUB S - Subscriber static
+       M F - Mobile Sub Foreign Agent, M H - Mobile Sub Home Agent
+       A - Derived Default, MeH - Media Nexthop
+       >   - Active Route, * - LSP 
+
+Gateway of last resort is 172.16.125.12 to network 0.0.0.0
+
+Type    Network             Next Hop        Dist  Metric    UpTime  Interface           
+> S     0.0.0.0/0           172.16.125.12      1       0  04:46:46  oam       
+> O     1.1.1.1/32          100.0.12.1       110       2  04:46:39  r1-r2     
+> C     2.2.2.2/32                             0       0  04:46:48  loop      
+> S     61.190.199.195/32                      1       0  04:46:46            
+> C     100.0.12.0/30                          0       0  04:46:48  r1-r2     
+> C     172.16.125.0/24                        0       0  04:46:48  oam       
+> S     202.102.216.116/32  172.16.125.12      1       0  04:46:46  oam       
+> C     211.138.200.0/24                       0       0  04:46:48  to_Radius 
+> S     221.131.124.68/32                      1       0  04:46:46            
+[local]GSDCCHN-SE400-2#show ip route
+Codes: C - connected, S - static, S dv - dvsr, R - RIP, e B - EBGP, i B - IBGP
+       O   - OSPF, O3  - OSPFv3, IA - OSPF(v3) inter-area,
+       N1  - OSPF(v3) NSSA external type 1, N2  - OSPF(v3) NSSA external type 2
+       E1  - OSPF(v3) external type 1, E2  - OSPF(v3) external type 2
+       i   - IS-IS, L1 - IS-IS level-1,  L2  - IS-IS level-2, N - NAT
+       IPH - IP Host, SUB A - Subscriber address, SUB S - Subscriber static
+       M F - Mobile Sub Foreign Agent, M H - Mobile Sub Home Agent
+       A - Derived Default, MeH - Media Nexthop
+       >   - Active Route, * - LSP 
+
+Gateway of last resort is 172.16.125.12 to network 0.0.0.0
+
+Type    Network             Next Hop        Dist  Metric    UpTime  Interface           
+> S     0.0.0.0/0           172.16.125.12      1       0  04:46:46  oam       
+> O     1.1.1.1/32          100.0.12.1       110       2  04:46:39  r1-r2     
+> C     2.2.2.2/32                             0       0  04:46:48  loop      
+> S     61.190.199.195/32                      1       0  04:46:46            
+> C     100.0.12.0/30                          0       0  04:46:48  r1-r2     
+> C     172.16.125.0/24                        0       0  04:46:48  oam       
+> S     202.102.216.116/32  172.16.125.12      1       0  04:46:46  oam       
+> C     211.138.200.0/24                       0       0  04:46:48  to_Radius 
+> S     221.131.124.68/32                      1       0  04:46:46            
+[local]GSDCCHN-SE400-2#show vrrp stat
+% VRRP process is not running
+[local]GSDCCHN-SE400-2#show vrrp stat
+% VRRP process is not running
+[local]GSDCCHN-SE400-2#show port detail
+ethernet 3/1 state is Up  
+Description                :
+Line state                 : Up  
+Admin state                : Up
+Link Dampening             : disabled
+Undampened line state      : Up
+Dampening Count            : 0
+Encapsulation              : ethernet
+MTU size                   : 1600 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:75
+Media type                 : 1000Base-T
+Auto-negotiation           : on                 state: success
+   Flc negotiated set      : tx&rx-or-rx-only   state: tx&rx
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: n/a
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : 100 meters
+Loopback                   : off
+SFP Transceiver Status
+ Diag Monitor              : No                                      
+Active Alarms              : NONE
+
+ethernet 3/2 state is Up  
+Description                :
+Line state                 : Up  
+Admin state                : Up
+Link Dampening             : disabled
+Undampened line state      : Up
+Dampening Count            : 0
+Encapsulation              : ethernet
+MTU size                   : 1500 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:76
+Media type                 : 1000Base-T
+Auto-negotiation           : on                 state: success
+   Flc negotiated set      : tx&rx-or-rx-only   state: tx&rx
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: n/a
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : 100 meters
+Loopback                   : off
+SFP Transceiver Status
+ Diag Monitor              : No                                      
+Active Alarms              : NONE
+
+ethernet 3/3 state is Up  
+Description                :
+Line state                 : Up  
+Admin state                : Up
+Link Dampening             : disabled
+Undampened line state      : Up
+Dampening Count            : 0
+Encapsulation              : dot1q
+MTU size                   : 1500 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:77
+Media type                 : 1000Base-T
+Auto-negotiation           : on                 state: success
+   Flc negotiated set      : tx&rx-or-rx-only   state: tx&rx
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: n/a
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : 100 meters
+Loopback                   : off
+SFP Transceiver Status
+ Diag Monitor              : No                                      
+Active Alarms              : NONE
+
+ethernet 3/4 state is Up  
+Description                :
+Line state                 : Up  
+Admin state                : Up
+Link Dampening             : disabled
+Undampened line state      : Up
+Dampening Count            : 0
+Encapsulation              : dot1q
+MTU size                   : 1500 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:78
+Media type                 : 1000Base-T
+Auto-negotiation           : on                 state: success
+   Flc negotiated set      : tx&rx-or-rx-only   state: tx&rx
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: n/a
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : 100 meters
+Loopback                   : off
+SFP Transceiver Status
+ Diag Monitor              : No                                      
+Active Alarms              : NONE
+
+ethernet 3/5 state is Up  
+Description                :
+Line state                 : Up  
+Admin state                : Up
+Link Dampening             : disabled
+Undampened line state      : Up
+Dampening Count            : 0
+Encapsulation              : ethernet
+MTU size                   : 1500 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:79
+Media type                 : 1000Base-SX
+Auto-negotiation           : on                 state: success
+   Flc negotiated set      : tx&rx-or-rx-only   state: tx&rx
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: n/a
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : 300 meters
+Loopback                   : off
+SFP Transceiver Status
+ Wavelength                : 850.00 nm
+ Diag Monitor              : Yes                                     
+ Tx Fault                  : No Fault                                
+ Rx Fault                  : LOW-PWR-ALARM                           
+ Tx Pwr measured[dbm]      : -6.11                                   
+ Rx Pwr measured[dbm]      : -17.99                                  
+ Temperature               : 42 C                                    
+ Vcc Measured              : 3.27 V                                  
+Active Alarms              : NONE
+
+ethernet 3/6 state is Up  
+Description                :
+Line state                 : Up  
+Admin state                : Up
+Link Dampening             : disabled
+Undampened line state      : Up
+Dampening Count            : 0
+Encapsulation              : ethernet
+MTU size                   : 1500 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:7a
+Media type                 : 1000Base-T
+Auto-negotiation           : on                 state: success
+   Flc negotiated set      : tx&rx-or-rx-only   state: tx&rx
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: n/a
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : 100 meters
+Loopback                   : off
+SFP Transceiver Status
+ Diag Monitor              : No                                      
+Active Alarms              : NONE
+
+ethernet 3/7 state is Up  
+Description                :
+Line state                 : Up  
+Admin state                : Up
+Link Dampening             : disabled
+Undampened line state      : Up
+Dampening Count            : 0
+Encapsulation              : ethernet
+MTU size                   : 1500 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:7b
+Media type                 : 1000Base-T
+Auto-negotiation           : on                 state: success
+   Flc negotiated set      : tx&rx-or-rx-only   state: tx&rx
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: n/a
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : 100 meters
+Loopback                   : off
+SFP Transceiver Status
+ Diag Monitor              : No                                      
+Active Alarms              : NONE
+
+ethernet 3/8 state is Down  
+Description                :
+Line state                 : Down  
+Admin state                : Up
+Link Dampening             : disabled
+Undampened line state      : Down
+Dampening Count            : 0
+Encapsulation              : ethernet
+MTU size                   : 1500 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:7c
+Media type                 : 1000Base-SX
+Auto-negotiation           : on                 state: fail
+   Flc negotiated set      : tx&rx-or-rx-only   state: n/a
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: rx
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : 300 meters
+Loopback                   : off
+SFP Transceiver Status
+ Wavelength                : 850.00 nm
+ Diag Monitor              : Yes                                     
+ Tx Fault                  : No Fault                                
+ Rx Fault                  : LOS-Fault                               
+ Tx Pwr measured[dbm]      : -5.04                                   
+ Rx Pwr measured[dbm]      : -20.56                                  
+ Temperature               : 54 C                                    
+ Vcc Measured              : 3.27 V                                  
+Active Alarms              : Link down 
+
+ethernet 3/9 state is Down  
+Description                :
+Line state                 : Down  
+Admin state                : Up
+Link Dampening             : enabled
+Link up delay              : 10000
+Link down delay            : 2500
+Undampened line state      : Down
+Dampening Count            : 3
+Encapsulation              : dot1q
+MTU size                   : 1500 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:7d
+Media type                 : No transceiver
+Auto-negotiation           : on                 state: fail
+   Flc negotiated set      : tx&rx-or-rx-only   state: n/a
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: rx
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : N/A
+Loopback                   : off
+SFP Transceiver Status
+ Wavelength                : 0.00   nm
+ Diag Monitor              : No                                      
+Active Alarms              : Link down 
+
+ethernet 3/10 state is Down  
+Description                :
+Line state                 : Down  
+Admin state                : Up
+Link Dampening             : disabled
+Undampened line state      : Down
+Dampening Count            : 0
+Encapsulation              : dot1q
+MTU size                   : 1500 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:7e
+Media type                 : 1000Base-T
+Auto-negotiation           : on                 state: fail
+   Flc negotiated set      : tx&rx-or-rx-only   state: n/a
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: rx
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : 100 meters
+Loopback                   : off
+SFP Transceiver Status
+ Diag Monitor              : No                                      
+Active Alarms              : Link down 
+
+ethernet 6/1 state is Up  
+Description                :
+Line state                 : Up  
+Admin state                : Up
+Encapsulation              : ethernet
+MTU size                   : 1500 Bytes
+MAC address                : 00:30:88:04:1e:a0
+Media type                 : 100Base-Tx
+Speed                      : 100 Mbps
+Duplex mode                : full
+Active Alarms              : NONE
+
+[local]GSDCCHN-SE400-2#show port detail
+ethernet 3/1 state is Up  
+Description                :
+Line state                 : Up  
+Admin state                : Up
+Link Dampening             : disabled
+Undampened line state      : Up
+Dampening Count            : 0
+Encapsulation              : ethernet
+MTU size                   : 1600 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:75
+Media type                 : 1000Base-T
+Auto-negotiation           : on                 state: success
+   Flc negotiated set      : tx&rx-or-rx-only   state: tx&rx
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: n/a
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : 100 meters
+Loopback                   : off
+SFP Transceiver Status
+ Diag Monitor              : No                                      
+Active Alarms              : NONE
+
+ethernet 3/2 state is Up  
+Description                :
+Line state                 : Up  
+Admin state                : Up
+Link Dampening             : disabled
+Undampened line state      : Up
+Dampening Count            : 0
+Encapsulation              : ethernet
+MTU size                   : 1500 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:76
+Media type                 : 1000Base-T
+Auto-negotiation           : on                 state: success
+   Flc negotiated set      : tx&rx-or-rx-only   state: tx&rx
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: n/a
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : 100 meters
+Loopback                   : off
+SFP Transceiver Status
+ Diag Monitor              : No                                      
+Active Alarms              : NONE
+
+ethernet 3/3 state is Up  
+Description                :
+Line state                 : Up  
+Admin state                : Up
+Link Dampening             : disabled
+Undampened line state      : Up
+Dampening Count            : 0
+Encapsulation              : dot1q
+MTU size                   : 1500 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:77
+Media type                 : 1000Base-T
+Auto-negotiation           : on                 state: success
+   Flc negotiated set      : tx&rx-or-rx-only   state: tx&rx
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: n/a
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : 100 meters
+Loopback                   : off
+SFP Transceiver Status
+ Diag Monitor              : No                                      
+Active Alarms              : NONE
+
+ethernet 3/4 state is Up  
+Description                :
+Line state                 : Up  
+Admin state                : Up
+Link Dampening             : disabled
+Undampened line state      : Up
+Dampening Count            : 0
+Encapsulation              : dot1q
+MTU size                   : 1500 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:78
+Media type                 : 1000Base-T
+Auto-negotiation           : on                 state: success
+   Flc negotiated set      : tx&rx-or-rx-only   state: tx&rx
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: n/a
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : 100 meters
+Loopback                   : off
+SFP Transceiver Status
+ Diag Monitor              : No                                      
+Active Alarms              : NONE
+
+ethernet 3/5 state is Up  
+Description                :
+Line state                 : Up  
+Admin state                : Up
+Link Dampening             : disabled
+Undampened line state      : Up
+Dampening Count            : 0
+Encapsulation              : ethernet
+MTU size                   : 1500 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:79
+Media type                 : 1000Base-SX
+Auto-negotiation           : on                 state: success
+   Flc negotiated set      : tx&rx-or-rx-only   state: tx&rx
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: n/a
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : 300 meters
+Loopback                   : off
+SFP Transceiver Status
+ Wavelength                : 850.00 nm
+ Diag Monitor              : Yes                                     
+ Tx Fault                  : No Fault                                
+ Rx Fault                  : LOW-PWR-ALARM                           
+ Tx Pwr measured[dbm]      : -6.10                                   
+ Rx Pwr measured[dbm]      : -17.90                                  
+ Temperature               : 42 C                                    
+ Vcc Measured              : 3.27 V                                  
+Active Alarms              : NONE
+
+ethernet 3/6 state is Up  
+Description                :
+Line state                 : Up  
+Admin state                : Up
+Link Dampening             : disabled
+Undampened line state      : Up
+Dampening Count            : 0
+Encapsulation              : ethernet
+MTU size                   : 1500 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:7a
+Media type                 : 1000Base-T
+Auto-negotiation           : on                 state: success
+   Flc negotiated set      : tx&rx-or-rx-only   state: tx&rx
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: n/a
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : 100 meters
+Loopback                   : off
+SFP Transceiver Status
+ Diag Monitor              : No                                      
+Active Alarms              : NONE
+
+ethernet 3/7 state is Up  
+Description                :
+Line state                 : Up  
+Admin state                : Up
+Link Dampening             : disabled
+Undampened line state      : Up
+Dampening Count            : 0
+Encapsulation              : ethernet
+MTU size                   : 1500 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:7b
+Media type                 : 1000Base-T
+Auto-negotiation           : on                 state: success
+   Flc negotiated set      : tx&rx-or-rx-only   state: tx&rx
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: n/a
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : 100 meters
+Loopback                   : off
+SFP Transceiver Status
+ Diag Monitor              : No                                      
+Active Alarms              : NONE
+
+ethernet 3/8 state is Down  
+Description                :
+Line state                 : Down  
+Admin state                : Up
+Link Dampening             : disabled
+Undampened line state      : Down
+Dampening Count            : 0
+Encapsulation              : ethernet
+MTU size                   : 1500 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:7c
+Media type                 : 1000Base-SX
+Auto-negotiation           : on                 state: fail
+   Flc negotiated set      : tx&rx-or-rx-only   state: n/a
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: rx
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : 300 meters
+Loopback                   : off
+SFP Transceiver Status
+ Wavelength                : 850.00 nm
+ Diag Monitor              : Yes                                     
+ Tx Fault                  : No Fault                                
+ Rx Fault                  : LOS-Fault                               
+ Tx Pwr measured[dbm]      : -5.05                                   
+ Rx Pwr measured[dbm]      : -20.56                                  
+ Temperature               : 54 C                                    
+ Vcc Measured              : 3.26 V                                  
+Active Alarms              : Link down 
+
+ethernet 3/9 state is Down  
+Description                :
+Line state                 : Down  
+Admin state                : Up
+Link Dampening             : enabled
+Link up delay              : 10000
+Link down delay            : 2500
+Undampened line state      : Down
+Dampening Count            : 3
+Encapsulation              : dot1q
+MTU size                   : 1500 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:7d
+Media type                 : No transceiver
+Auto-negotiation           : on                 state: fail
+   Flc negotiated set      : tx&rx-or-rx-only   state: n/a
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: rx
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : N/A
+Loopback                   : off
+SFP Transceiver Status
+ Wavelength                : 0.00   nm
+ Diag Monitor              : No                                      
+Active Alarms              : Link down 
+
+ethernet 3/10 state is Down  
+Description                :
+Line state                 : Down  
+Admin state                : Up
+Link Dampening             : disabled
+Undampened line state      : Down
+Dampening Count            : 0
+Encapsulation              : dot1q
+MTU size                   : 1500 Bytes
+NAS Port Type              : 
+MAC address                : 00:30:88:13:a6:7e
+Media type                 : 1000Base-T
+Auto-negotiation           : on                 state: fail
+   Flc negotiated set      : tx&rx-or-rx-only   state: n/a
+   force                   : disabled           state: inactive
+Flow control               : rx                 state: rx
+Speed                      : 1 Gbps
+Duplex mode                : full
+Link Distance              : 100 meters
+Loopback                   : off
+SFP Transceiver Status
+ Diag Monitor              : No                                      
+Active Alarms              : Link down 
+
+ethernet 6/1 state is Up  
+Description                :
+Line state                 : Up  
+Admin state                : Up
+Encapsulation              : ethernet
+MTU size                   : 1500 Bytes
+MAC address                : 00:30:88:04:1e:a0
+Media type                 : 100Base-Tx
+Speed                      : 100 Mbps
+Duplex mode                : full
+Active Alarms              : NONE
+
+[local]GSDCCHN-SE400-2#

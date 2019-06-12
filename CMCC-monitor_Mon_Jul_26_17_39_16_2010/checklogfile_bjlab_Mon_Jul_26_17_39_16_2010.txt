@@ -1,0 +1,8 @@
+
+GSDCCHN-SE400-2
+login: admin
+Password: 
+[local]GSDCCHN-SE400-2#term len 0
+[local]GSDCCHN-SE400-2#show clock
+Mon Jul 26 17:28:52 2010 EST
+[local]GSDCCHN-SE400-2#

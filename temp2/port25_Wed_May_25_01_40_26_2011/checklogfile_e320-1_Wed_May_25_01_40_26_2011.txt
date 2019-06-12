@@ -1,0 +1,42 @@
+Ubuntu 10.04.2 LTS
+640g-laptop login: temp
+Password: 
+Last login: Tue May 24 16:14:59 EDT 2011 from localhost on pts/15
+Linux 640g-laptop 2.6.32-31-generic #61-Ubuntu SMP Fri Apr 8 18:25:51 UTC 2011 x86_64 GNU/Linux
+Ubuntu 10.04.2 LTS
+
+Welcome to Ubuntu!
+ * Documentation:  https://help.ubuntu.com/
+
+Ubuntu 10.04.2 LTS
+
+Welcome to Ubuntu!
+ * Documentation:  https://help.ubuntu.com/
+
+temp@640g-laptop:~$ telnet 172.25.84.204
+Trying 172.25.84.204...
+Connected to 172.25.84.204.
+Escape character is '^]'.
+
+
+           !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+           !   YOU HAVE CONNECTED TO VERIZON, INC.    !
+           !                                          !
+           !  UNAUTHORIZED ACCESS WILL BE PROSECUTED  !
+           !   TO THE FULLEST EXTENT OF THE LAW ! !   !
+           !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Logged in on vty 1 via telnet.
+Copyright (c) 1999-2008 Juniper Networks, Inc.  All rights reserved.
+
+           !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+           ! NO CHANGES TO THIS CONFIG ARE TO BE MADE !
+           !  WITHOUT ENGINEERING OR IP NOC SUPPORT!  !
+           !                                          !
+           !      TACACS LOGS WILL BE AUDITED! ! !    !
+           !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+PHLAPA-VFTTP-96>en
+PHLAPA-VFTTP-96#term len 0
+PHLAPA-VFTTP-96#show clock
+WED MAY 25 2011 05:18:02 UTC
+PHLAPA-VFTTP-96#

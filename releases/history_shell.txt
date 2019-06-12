@@ -1,0 +1,15 @@
+exit
+exit
+dir
+dir
+ls
+ls
+dir
+dir
+logtool.exe
+logtool.exe
+exit
+exit
+
+exit
+exit
